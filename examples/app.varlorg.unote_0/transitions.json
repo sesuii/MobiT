@@ -1,0 +1,1144 @@
+[
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[912,163][1056,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "Search",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-172959",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172959.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172959.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172959_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172959.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172959-element.json"
+      },
+      "from": 0,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1056,163][1200,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_multi",
+        "class": "Button",
+        "content-desc": "Select mode",
+        "index": "0-0-0-0-1-2"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173004",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173004.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173004.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173004_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173004.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173004-element.json"
+      },
+      "from": 0,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1200,163][1344,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_settings",
+        "class": "Button",
+        "content-desc": "Settings",
+        "index": "0-0-0-0-1-3"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".Preference"
+      ],
+      "assets": {
+        "timestamp": "20250520-173010",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173010.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173010.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173010_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173010.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173010-element.json"
+      },
+      "from": 0,
+      "to": 2
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[0,2776][448,2920]",
+        "clickable": "true",
+        "text": "Add note",
+        "resource-id": "app.varlorg.unote:id/addNoteButton",
+        "class": "Button",
+        "index": "0-0-1-0-2-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173039",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173039.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173039.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173039_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173039.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173039-element.json"
+      },
+      "from": 0,
+      "to": 1
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[0,2776][448,2920]",
+        "clickable": "true",
+        "text": "Add note",
+        "resource-id": "app.varlorg.unote:id/addNoteButton",
+        "class": "Button",
+        "index": "0-0-1-0-2-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173039",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173039.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173039.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173039_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173039.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173039-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[448,2776][896,2920]",
+        "clickable": "true",
+        "text": "Search",
+        "resource-id": "app.varlorg.unote:id/returnSearch",
+        "class": "Button",
+        "index": "0-0-1-0-2-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173044",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173044.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173044.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173044_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173044.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173044-element.json"
+      },
+      "from": 0,
+      "to": 1
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[0,2776][448,2920]",
+        "clickable": "true",
+        "text": "Add note",
+        "resource-id": "app.varlorg.unote:id/addNoteButton",
+        "class": "Button",
+        "index": "0-0-1-0-2-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173039",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173039.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173039.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173039_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173039.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173039-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[448,2776][896,2920]",
+        "clickable": "true",
+        "text": "Search",
+        "resource-id": "app.varlorg.unote:id/returnSearch",
+        "class": "Button",
+        "index": "0-0-1-0-2-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173044",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173044.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173044.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173044_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173044.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173044-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[896,2776][1344,2920]",
+        "clickable": "true",
+        "text": "Quit",
+        "resource-id": "app.varlorg.unote:id/returnButton",
+        "class": "Button",
+        "index": "0-0-1-0-2-2"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173050",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173050.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173050.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173050_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173050.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173050-element.json"
+      },
+      "from": 0,
+      "to": 1
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[936,163][1080,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_save",
+        "class": "Button",
+        "content-desc": "action_save",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173124",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173124.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173124.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173124_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173124.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173124-element.json"
+      },
+      "from": 1,
+      "to": 0
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[936,163][1080,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_save",
+        "class": "Button",
+        "content-desc": "action_save",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173124",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173124.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173124.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173124_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173124.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173124-element.json"
+      },
+      "from": 1,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1080,163][1224,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_switch_mode",
+        "class": "Button",
+        "content-desc": "action_edit",
+        "index": "0-0-0-0-1-2"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173129",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173129.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173129.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173129_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173129.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173129-element.json"
+      },
+      "from": 1,
+      "to": 0
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[936,163][1080,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_save",
+        "class": "Button",
+        "content-desc": "action_save",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173124",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173124.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173124.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173124_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173124.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173124-element.json"
+      },
+      "from": 1,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1080,163][1224,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_switch_mode",
+        "class": "Button",
+        "content-desc": "action_edit",
+        "index": "0-0-0-0-1-2"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173129",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173129.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173129.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173129_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173129.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173129-element.json"
+      },
+      "from": 1,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1224,163][1344,307]",
+        "clickable": "true",
+        "class": "ImageButton",
+        "content-desc": "More options",
+        "index": "0-0-0-0-1-3"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".Preference"
+      ],
+      "assets": {
+        "timestamp": "20250520-173134",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173134.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173134.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173134_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173134.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173134-element.json"
+      },
+      "from": 1,
+      "to": 2
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173411",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173411.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173411.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173411_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173411.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173411-element.json"
+      },
+      "from": 3,
+      "to": 1
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173411",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173411.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173411.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173411_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173411.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173411-element.json"
+      },
+      "from": 3,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[936,163][1080,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_save",
+        "class": "Button",
+        "content-desc": "action_save",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173416",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173416.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173416.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173416_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173416.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173416-element.json"
+      },
+      "from": 3,
+      "to": 0
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173411",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173411.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173411.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173411_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173411.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173411-element.json"
+      },
+      "from": 3,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[936,163][1080,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_save",
+        "class": "Button",
+        "content-desc": "action_save",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173416",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173416.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173416.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173416_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173416.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173416-element.json"
+      },
+      "from": 3,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1080,163][1224,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_switch_mode",
+        "class": "Button",
+        "content-desc": "action_edit",
+        "index": "0-0-0-0-1-2"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173422",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173422.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173422.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173422_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173422.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173422-element.json"
+      },
+      "from": 3,
+      "to": 0
+    }
+  ],
+  [
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[768,163][912,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_add",
+        "class": "Button",
+        "content-desc": "Add note",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-172935",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-172935_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-172935-element.json"
+      },
+      "from": 0,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173104",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173104_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173104-element.json"
+      },
+      "from": 1,
+      "to": 3
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[792,163][936,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_search",
+        "class": "Button",
+        "content-desc": "action_search",
+        "index": "0-0-0-0-1-0"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".NoteEdition"
+      ],
+      "assets": {
+        "timestamp": "20250520-173411",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173411.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173411.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173411_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173411.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173411-element.json"
+      },
+      "from": 3,
+      "to": 1
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[936,163][1080,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_save",
+        "class": "Button",
+        "content-desc": "action_save",
+        "index": "0-0-0-0-1-1"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173416",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173416.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173416.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173416_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173416.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173416-element.json"
+      },
+      "from": 3,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1080,163][1224,307]",
+        "clickable": "true",
+        "resource-id": "app.varlorg.unote:id/action_switch_mode",
+        "class": "Button",
+        "content-desc": "action_edit",
+        "index": "0-0-0-0-1-2"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        "jacoco.MainActivity"
+      ],
+      "assets": {
+        "timestamp": "20250520-173422",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173422.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173422.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173422_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173422.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173422-element.json"
+      },
+      "from": 3,
+      "to": 0
+    },
+    {
+      "type": "tap",
+      "ele": {
+        "bounds": "[1224,163][1344,307]",
+        "clickable": "true",
+        "class": "ImageButton",
+        "content-desc": "More options",
+        "index": "0-0-0-0-1-3"
+      },
+      "appinfo": [
+        "app.varlorg.unote",
+        ".Preference"
+      ],
+      "assets": {
+        "timestamp": "20250520-173427",
+        "save_dir": "data/app.varlorg.unote_0/assets",
+        "xml_path": "data/app.varlorg.unote_0/assets/20250520-173427.xml",
+        "img_path": "data/app.varlorg.unote_0/assets/20250520-173427.png",
+        "img_labeled_path": "data/app.varlorg.unote_0/assets/20250520-173427_labeled.png",
+        "json_path": "data/app.varlorg.unote_0/assets/20250520-173427.json",
+        "element_path": "data/app.varlorg.unote_0/assets/20250520-173427-element.json"
+      },
+      "from": 3,
+      "to": 2
+    }
+  ]
+]

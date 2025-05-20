@@ -1,0 +1,404 @@
+{
+  "tree": [
+    {
+      "bounds": "[0,0][1344,2992]",
+      "clickable": "false",
+      "class": "FrameLayout",
+      "index": "0",
+      "children": [
+        {
+          "bounds": "[0,0][1344,2920]",
+          "clickable": "false",
+          "resource-id": "android:id/decor_content_parent",
+          "class": "ViewGroup",
+          "index": "0-0",
+          "children": [
+            {
+              "bounds": "[0,151][1344,319]",
+              "clickable": "false",
+              "resource-id": "android:id/action_bar_container",
+              "class": "FrameLayout",
+              "index": "0-0-0",
+              "children": [
+                {
+                  "bounds": "[0,151][1344,319]",
+                  "clickable": "false",
+                  "resource-id": "android:id/action_bar",
+                  "class": "ViewGroup",
+                  "index": "0-0-0-0",
+                  "children": [
+                    {
+                      "bounds": "[48,194][210,275]",
+                      "clickable": "false",
+                      "text": "uNote",
+                      "class": "TextView",
+                      "index": "0-0-0-0-0"
+                    },
+                    {
+                      "bounds": "[792,151][1344,319]",
+                      "clickable": "false",
+                      "class": "LinearLayout",
+                      "index": "0-0-0-0-1",
+                      "children": [
+                        {
+                          "bounds": "[792,163][936,307]",
+                          "clickable": "true",
+                          "resource-id": "app.varlorg.unote:id/action_search",
+                          "class": "Button",
+                          "content-desc": "action_search",
+                          "index": "0-0-0-0-1-0"
+                        },
+                        {
+                          "bounds": "[936,163][1080,307]",
+                          "clickable": "true",
+                          "resource-id": "app.varlorg.unote:id/action_save",
+                          "class": "Button",
+                          "content-desc": "action_save",
+                          "index": "0-0-0-0-1-1"
+                        },
+                        {
+                          "bounds": "[1080,163][1224,307]",
+                          "clickable": "true",
+                          "resource-id": "app.varlorg.unote:id/action_switch_mode",
+                          "class": "Button",
+                          "content-desc": "action_edit",
+                          "index": "0-0-0-0-1-2"
+                        },
+                        {
+                          "bounds": "[1224,163][1344,307]",
+                          "clickable": "true",
+                          "class": "ImageButton",
+                          "content-desc": "More options",
+                          "index": "0-0-0-0-1-3"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "bounds": "[0,319][1344,2776]",
+              "clickable": "false",
+              "resource-id": "android:id/content",
+              "class": "FrameLayout",
+              "index": "0-0-1",
+              "children": [
+                {
+                  "bounds": "[0,319][1344,2776]",
+                  "clickable": "false",
+                  "resource-id": "app.varlorg.unote:id/activity_noteedition",
+                  "class": "LinearLayout",
+                  "index": "0-0-1-0",
+                  "children": [
+                    {
+                      "bounds": "[0,319][1344,478]",
+                      "clickable": "false",
+                      "resource-id": "app.varlorg.unote:id/search_within_note",
+                      "class": "FrameLayout",
+                      "index": "0-0-1-0-0",
+                      "children": [
+                        {
+                          "bounds": "[0,319][1104,478]",
+                          "clickable": "true",
+                          "text": "Search",
+                          "resource-id": "app.varlorg.unote:id/search_note",
+                          "class": "EditText",
+                          "index": "0-0-1-0-0-0"
+                        },
+                        {
+                          "bounds": "[1134,362][1194,435]",
+                          "clickable": "false",
+                          "resource-id": "app.varlorg.unote:id/search_note_count",
+                          "class": "TextView",
+                          "index": "0-0-1-0-0-1"
+                        }
+                      ]
+                    },
+                    {
+                      "bounds": "[0,478][108,551]",
+                      "clickable": "false",
+                      "text": "Title",
+                      "resource-id": "app.varlorg.unote:id/TitreNote",
+                      "class": "TextView",
+                      "index": "0-0-1-0-1"
+                    },
+                    {
+                      "bounds": "[0,551][1344,557]",
+                      "clickable": "false",
+                      "resource-id": "app.varlorg.unote:id/TitreNoteLine",
+                      "class": "TextView",
+                      "index": "0-0-1-0-2"
+                    },
+                    {
+                      "bounds": "[6,563][1338,660]",
+                      "clickable": "true",
+                      "text": "Note's Title",
+                      "resource-id": "app.varlorg.unote:id/TitreNoteEdition",
+                      "class": "EditText",
+                      "index": "0-0-1-0-3"
+                    },
+                    {
+                      "bounds": "[0,666][179,740]",
+                      "clickable": "false",
+                      "text": "Note ✍︎",
+                      "resource-id": "app.varlorg.unote:id/NoteEditionTitre",
+                      "class": "TextView",
+                      "index": "0-0-1-0-4"
+                    },
+                    {
+                      "bounds": "[0,740][1344,746]",
+                      "clickable": "false",
+                      "resource-id": "app.varlorg.unote:id/NoteEditionLine",
+                      "class": "TextView",
+                      "index": "0-0-1-0-5"
+                    },
+                    {
+                      "bounds": "[6,752][1338,2626]",
+                      "clickable": "true",
+                      "text": "Your Note",
+                      "resource-id": "app.varlorg.unote:id/NoteEdition",
+                      "class": "EditText",
+                      "index": "0-0-1-0-6"
+                    },
+                    {
+                      "bounds": "[0,2632][1344,2776]",
+                      "clickable": "false",
+                      "resource-id": "app.varlorg.unote:id/editionButtons",
+                      "class": "LinearLayout",
+                      "index": "0-0-1-0-7",
+                      "children": [
+                        {
+                          "bounds": "[0,2632][672,2776]",
+                          "clickable": "true",
+                          "text": "Save",
+                          "resource-id": "app.varlorg.unote:id/ButtonSave",
+                          "class": "Button",
+                          "index": "0-0-1-0-7-0"
+                        },
+                        {
+                          "bounds": "[672,2632][1344,2776]",
+                          "clickable": "true",
+                          "text": "Return",
+                          "resource-id": "app.varlorg.unote:id/ButtonQuit",
+                          "class": "Button",
+                          "index": "0-0-1-0-7-1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bounds": "[0,0][1344,151]",
+          "clickable": "false",
+          "resource-id": "android:id/statusBarBackground",
+          "class": "View",
+          "index": "0-1"
+        },
+        {
+          "bounds": "[0,2920][1344,2992]",
+          "clickable": "false",
+          "resource-id": "android:id/navigationBarBackground",
+          "class": "View",
+          "index": "0-2"
+        }
+      ]
+    }
+  ],
+  "array": [
+    {
+      "bounds": "[0,0][1344,2992]",
+      "clickable": "false",
+      "class": "FrameLayout",
+      "index": "0"
+    },
+    {
+      "bounds": "[0,0][1344,2920]",
+      "clickable": "false",
+      "resource-id": "android:id/decor_content_parent",
+      "class": "ViewGroup",
+      "index": "0-0"
+    },
+    {
+      "bounds": "[0,151][1344,319]",
+      "clickable": "false",
+      "resource-id": "android:id/action_bar_container",
+      "class": "FrameLayout",
+      "index": "0-0-0"
+    },
+    {
+      "bounds": "[0,151][1344,319]",
+      "clickable": "false",
+      "resource-id": "android:id/action_bar",
+      "class": "ViewGroup",
+      "index": "0-0-0-0"
+    },
+    {
+      "bounds": "[48,194][210,275]",
+      "clickable": "false",
+      "text": "uNote",
+      "class": "TextView",
+      "index": "0-0-0-0-0"
+    },
+    {
+      "bounds": "[792,151][1344,319]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-0-0-1"
+    },
+    {
+      "bounds": "[792,163][936,307]",
+      "clickable": "true",
+      "resource-id": "app.varlorg.unote:id/action_search",
+      "class": "Button",
+      "content-desc": "action_search",
+      "index": "0-0-0-0-1-0"
+    },
+    {
+      "bounds": "[936,163][1080,307]",
+      "clickable": "true",
+      "resource-id": "app.varlorg.unote:id/action_save",
+      "class": "Button",
+      "content-desc": "action_save",
+      "index": "0-0-0-0-1-1"
+    },
+    {
+      "bounds": "[1080,163][1224,307]",
+      "clickable": "true",
+      "resource-id": "app.varlorg.unote:id/action_switch_mode",
+      "class": "Button",
+      "content-desc": "action_edit",
+      "index": "0-0-0-0-1-2"
+    },
+    {
+      "bounds": "[1224,163][1344,307]",
+      "clickable": "true",
+      "class": "ImageButton",
+      "content-desc": "More options",
+      "index": "0-0-0-0-1-3"
+    },
+    {
+      "bounds": "[0,319][1344,2776]",
+      "clickable": "false",
+      "resource-id": "android:id/content",
+      "class": "FrameLayout",
+      "index": "0-0-1"
+    },
+    {
+      "bounds": "[0,319][1344,2776]",
+      "clickable": "false",
+      "resource-id": "app.varlorg.unote:id/activity_noteedition",
+      "class": "LinearLayout",
+      "index": "0-0-1-0"
+    },
+    {
+      "bounds": "[0,319][1344,478]",
+      "clickable": "false",
+      "resource-id": "app.varlorg.unote:id/search_within_note",
+      "class": "FrameLayout",
+      "index": "0-0-1-0-0"
+    },
+    {
+      "bounds": "[0,319][1104,478]",
+      "clickable": "true",
+      "text": "Search",
+      "resource-id": "app.varlorg.unote:id/search_note",
+      "class": "EditText",
+      "index": "0-0-1-0-0-0"
+    },
+    {
+      "bounds": "[1134,362][1194,435]",
+      "clickable": "false",
+      "resource-id": "app.varlorg.unote:id/search_note_count",
+      "class": "TextView",
+      "index": "0-0-1-0-0-1"
+    },
+    {
+      "bounds": "[0,478][108,551]",
+      "clickable": "false",
+      "text": "Title",
+      "resource-id": "app.varlorg.unote:id/TitreNote",
+      "class": "TextView",
+      "index": "0-0-1-0-1"
+    },
+    {
+      "bounds": "[0,551][1344,557]",
+      "clickable": "false",
+      "resource-id": "app.varlorg.unote:id/TitreNoteLine",
+      "class": "TextView",
+      "index": "0-0-1-0-2"
+    },
+    {
+      "bounds": "[6,563][1338,660]",
+      "clickable": "true",
+      "text": "Note's Title",
+      "resource-id": "app.varlorg.unote:id/TitreNoteEdition",
+      "class": "EditText",
+      "index": "0-0-1-0-3"
+    },
+    {
+      "bounds": "[0,666][179,740]",
+      "clickable": "false",
+      "text": "Note ✍︎",
+      "resource-id": "app.varlorg.unote:id/NoteEditionTitre",
+      "class": "TextView",
+      "index": "0-0-1-0-4"
+    },
+    {
+      "bounds": "[0,740][1344,746]",
+      "clickable": "false",
+      "resource-id": "app.varlorg.unote:id/NoteEditionLine",
+      "class": "TextView",
+      "index": "0-0-1-0-5"
+    },
+    {
+      "bounds": "[6,752][1338,2626]",
+      "clickable": "true",
+      "text": "Your Note",
+      "resource-id": "app.varlorg.unote:id/NoteEdition",
+      "class": "EditText",
+      "index": "0-0-1-0-6"
+    },
+    {
+      "bounds": "[0,2632][1344,2776]",
+      "clickable": "false",
+      "resource-id": "app.varlorg.unote:id/editionButtons",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-7"
+    },
+    {
+      "bounds": "[0,2632][672,2776]",
+      "clickable": "true",
+      "text": "Save",
+      "resource-id": "app.varlorg.unote:id/ButtonSave",
+      "class": "Button",
+      "index": "0-0-1-0-7-0"
+    },
+    {
+      "bounds": "[672,2632][1344,2776]",
+      "clickable": "true",
+      "text": "Return",
+      "resource-id": "app.varlorg.unote:id/ButtonQuit",
+      "class": "Button",
+      "index": "0-0-1-0-7-1"
+    },
+    {
+      "bounds": "[0,0][1344,151]",
+      "clickable": "false",
+      "resource-id": "android:id/statusBarBackground",
+      "class": "View",
+      "index": "0-1"
+    },
+    {
+      "bounds": "[0,2920][1344,2992]",
+      "clickable": "false",
+      "resource-id": "android:id/navigationBarBackground",
+      "class": "View",
+      "index": "0-2"
+    }
+  ]
+}

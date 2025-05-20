@@ -1,0 +1,3 @@
+{
+  "intro": "Lightweight and minimalist notepad which focuses on simplicity and gives only\nbasic features:\n\n* add/delete note\n* secure a note with password\n* sort notes by creation date, modification date or title\n* search notes (only title or also in content except protected ones)\n* export/import database to sdcard"
+}

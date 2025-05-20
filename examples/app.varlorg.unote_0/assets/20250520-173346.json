@@ -1,0 +1,1200 @@
+{
+  "tree": [
+    {
+      "bounds": "[0,0][1344,2992]",
+      "clickable": "false",
+      "class": "FrameLayout",
+      "index": "0",
+      "children": [
+        {
+          "bounds": "[0,0][1344,2920]",
+          "clickable": "false",
+          "resource-id": "android:id/decor_content_parent",
+          "class": "ViewGroup",
+          "index": "0-0",
+          "children": [
+            {
+              "bounds": "[0,151][1344,319]",
+              "clickable": "false",
+              "resource-id": "android:id/action_bar_container",
+              "class": "FrameLayout",
+              "index": "0-0-0",
+              "children": [
+                {
+                  "bounds": "[0,151][1344,319]",
+                  "clickable": "false",
+                  "resource-id": "android:id/action_bar",
+                  "class": "ViewGroup",
+                  "index": "0-0-0-0",
+                  "children": [
+                    {
+                      "bounds": "[48,194][369,275]",
+                      "clickable": "false",
+                      "text": "Preferences",
+                      "class": "TextView",
+                      "index": "0-0-0-0-0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "bounds": "[0,319][1344,2920]",
+              "clickable": "false",
+              "resource-id": "android:id/content",
+              "class": "FrameLayout",
+              "index": "0-0-1",
+              "children": [
+                {
+                  "bounds": "[0,319][1344,2920]",
+                  "clickable": "false",
+                  "class": "LinearLayout",
+                  "index": "0-0-1-0",
+                  "children": [
+                    {
+                      "bounds": "[0,319][1344,2920]",
+                      "clickable": "false",
+                      "class": "LinearLayout",
+                      "index": "0-0-1-0-0",
+                      "children": [
+                        {
+                          "bounds": "[0,319][1344,2920]",
+                          "clickable": "false",
+                          "resource-id": "android:id/headers",
+                          "class": "LinearLayout",
+                          "index": "0-0-1-0-0-0",
+                          "children": [
+                            {
+                              "bounds": "[0,319][1344,2920]",
+                              "clickable": "false",
+                              "resource-id": "android:id/list",
+                              "class": "ListView",
+                              "index": "0-0-1-0-0-0-0",
+                              "children": [
+                                {
+                                  "bounds": "[0,319][1344,424]",
+                                  "clickable": "false",
+                                  "text": "Search",
+                                  "resource-id": "android:id/title",
+                                  "class": "TextView",
+                                  "index": "0-0-1-0-0-0-0-0"
+                                },
+                                {
+                                  "bounds": "[0,427][1344,694]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-1",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,427][1152,694]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-1-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,475][421,540]",
+                                          "clickable": "false",
+                                          "text": "Search in content",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-1-0-0"
+                                        },
+                                        {
+                                          "bounds": "[48,540][1152,646]",
+                                          "clickable": "false",
+                                          "text": "Search also in the notes' content but not in note protected by password",
+                                          "resource-id": "android:id/summary",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-1-0-1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,427][1296,694]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-1-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,512][1296,608]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-1-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,697][1344,858]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-2",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,697][1152,858]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-2-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,745][552,810]",
+                                          "clickable": "false",
+                                          "text": "Case sensitive research",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-2-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,697][1296,858]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-2-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,729][1296,825]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-2-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,861][1344,1022]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-3",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,861][1152,1022]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-3-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,909][533,974]",
+                                          "clickable": "false",
+                                          "text": "Display search options",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-3-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,861][1296,1022]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-3-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,893][1296,989]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-3-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,1025][1344,1186]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-4",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,1025][1152,1186]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-4-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,1073][539,1138]",
+                                          "clickable": "false",
+                                          "text": "Vertical search options",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-4-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,1025][1296,1186]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-4-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,1057][1296,1153]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-4-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,1189][1344,1350]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-5",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,1189][1152,1350]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-5-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,1237][974,1302]",
+                                          "clickable": "false",
+                                          "text": "Display number of found inside note search",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-5-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,1189][1296,1350]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-5-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,1221][1296,1317]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-5-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,1353][1344,1458]",
+                                  "clickable": "false",
+                                  "text": "Display",
+                                  "resource-id": "android:id/title",
+                                  "class": "TextView",
+                                  "index": "0-0-1-0-0-0-0-6"
+                                },
+                                {
+                                  "bounds": "[0,1461][1344,1679]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-7",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,1461][1152,1679]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-7-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,1509][334,1574]",
+                                          "clickable": "false",
+                                          "text": "Creation date",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-7-0-0"
+                                        },
+                                        {
+                                          "bounds": "[48,1574][440,1631]",
+                                          "clickable": "false",
+                                          "text": "Display creation date",
+                                          "resource-id": "android:id/summary",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-7-0-1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,1461][1296,1679]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-7-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,1522][1296,1618]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-7-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,1682][1344,1900]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-8",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,1682][1152,1900]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-8-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,1730][427,1795]",
+                                          "clickable": "false",
+                                          "text": "Modification Date",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-8-0-0"
+                                        },
+                                        {
+                                          "bounds": "[48,1795][522,1852]",
+                                          "clickable": "false",
+                                          "text": "Display modification date",
+                                          "resource-id": "android:id/summary",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-8-0-1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,1682][1296,1900]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-8-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,1743][1296,1839]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-8-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,1903][1344,2064]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-9",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,1903][1152,2064]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-9-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,1951][503,2016]",
+                                          "clickable": "false",
+                                          "text": "Follow system theme",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-9-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,1903][1296,2064]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-9-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,1935][1296,2031]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-9-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,2067][1344,2285]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-10",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,2067][1152,2285]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-10-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,2115][301,2180]",
+                                          "clickable": "false",
+                                          "text": "Light theme",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-10-0-0"
+                                        },
+                                        {
+                                          "bounds": "[48,2180][410,2237]",
+                                          "clickable": "false",
+                                          "text": "Light or dark theme",
+                                          "resource-id": "android:id/summary",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-10-0-1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,2067][1296,2285]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-10-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,2128][1296,2224]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-10-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,2288][1344,2506]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-11",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,2288][1296,2506]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-11-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,2336][321,2401]",
+                                          "clickable": "false",
+                                          "text": "Preview limit",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-11-0-0"
+                                        },
+                                        {
+                                          "bounds": "[48,2401][818,2458]",
+                                          "clickable": "false",
+                                          "text": "Number of characters per note previewed",
+                                          "resource-id": "android:id/summary",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-11-0-1"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,2509][1344,2670]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-12",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,2509][1152,2670]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-12-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,2557][686,2622]",
+                                          "clickable": "false",
+                                          "text": "Respect formatting in preview",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-12-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,2509][1296,2670]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-12-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,2541][1296,2637]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-12-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,2673][1344,2834]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-13",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,2673][1152,2834]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-13-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,2721][534,2786]",
+                                          "clickable": "false",
+                                          "text": "Keep scrolling position",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-13-0-0"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "bounds": "[1152,2673][1296,2834]",
+                                      "clickable": "false",
+                                      "resource-id": "android:id/widget_frame",
+                                      "class": "LinearLayout",
+                                      "index": "0-0-1-0-0-0-0-13-1",
+                                      "children": [
+                                        {
+                                          "bounds": "[1200,2705][1296,2801]",
+                                          "clickable": "false",
+                                          "resource-id": "android:id/checkbox",
+                                          "class": "CheckBox",
+                                          "index": "0-0-1-0-0-0-0-13-1-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "bounds": "[0,2837][1344,2920]",
+                                  "clickable": "false",
+                                  "class": "LinearLayout",
+                                  "index": "0-0-1-0-0-0-0-14",
+                                  "children": [
+                                    {
+                                      "bounds": "[48,2837][1296,2920]",
+                                      "clickable": "false",
+                                      "class": "RelativeLayout",
+                                      "index": "0-0-1-0-0-0-0-14-0",
+                                      "children": [
+                                        {
+                                          "bounds": "[48,2885][199,2920]",
+                                          "clickable": "false",
+                                          "text": "Sort by",
+                                          "resource-id": "android:id/title",
+                                          "class": "TextView",
+                                          "index": "0-0-1-0-0-0-0-14-0-0"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bounds": "[0,0][1344,151]",
+          "clickable": "false",
+          "resource-id": "android:id/statusBarBackground",
+          "class": "View",
+          "index": "0-1"
+        },
+        {
+          "bounds": "[0,2920][1344,2992]",
+          "clickable": "false",
+          "resource-id": "android:id/navigationBarBackground",
+          "class": "View",
+          "index": "0-2"
+        }
+      ]
+    }
+  ],
+  "array": [
+    {
+      "bounds": "[0,0][1344,2992]",
+      "clickable": "false",
+      "class": "FrameLayout",
+      "index": "0"
+    },
+    {
+      "bounds": "[0,0][1344,2920]",
+      "clickable": "false",
+      "resource-id": "android:id/decor_content_parent",
+      "class": "ViewGroup",
+      "index": "0-0"
+    },
+    {
+      "bounds": "[0,151][1344,319]",
+      "clickable": "false",
+      "resource-id": "android:id/action_bar_container",
+      "class": "FrameLayout",
+      "index": "0-0-0"
+    },
+    {
+      "bounds": "[0,151][1344,319]",
+      "clickable": "false",
+      "resource-id": "android:id/action_bar",
+      "class": "ViewGroup",
+      "index": "0-0-0-0"
+    },
+    {
+      "bounds": "[48,194][369,275]",
+      "clickable": "false",
+      "text": "Preferences",
+      "class": "TextView",
+      "index": "0-0-0-0-0"
+    },
+    {
+      "bounds": "[0,319][1344,2920]",
+      "clickable": "false",
+      "resource-id": "android:id/content",
+      "class": "FrameLayout",
+      "index": "0-0-1"
+    },
+    {
+      "bounds": "[0,319][1344,2920]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0"
+    },
+    {
+      "bounds": "[0,319][1344,2920]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0"
+    },
+    {
+      "bounds": "[0,319][1344,2920]",
+      "clickable": "false",
+      "resource-id": "android:id/headers",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0"
+    },
+    {
+      "bounds": "[0,319][1344,2920]",
+      "clickable": "false",
+      "resource-id": "android:id/list",
+      "class": "ListView",
+      "index": "0-0-1-0-0-0-0"
+    },
+    {
+      "bounds": "[0,319][1344,424]",
+      "clickable": "false",
+      "text": "Search",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-0"
+    },
+    {
+      "bounds": "[0,427][1344,694]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-1"
+    },
+    {
+      "bounds": "[48,427][1152,694]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-1-0"
+    },
+    {
+      "bounds": "[48,475][421,540]",
+      "clickable": "false",
+      "text": "Search in content",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-1-0-0"
+    },
+    {
+      "bounds": "[48,540][1152,646]",
+      "clickable": "false",
+      "text": "Search also in the notes' content but not in note protected by password",
+      "resource-id": "android:id/summary",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-1-0-1"
+    },
+    {
+      "bounds": "[1152,427][1296,694]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-1-1"
+    },
+    {
+      "bounds": "[1200,512][1296,608]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-1-1-0"
+    },
+    {
+      "bounds": "[0,697][1344,858]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-2"
+    },
+    {
+      "bounds": "[48,697][1152,858]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-2-0"
+    },
+    {
+      "bounds": "[48,745][552,810]",
+      "clickable": "false",
+      "text": "Case sensitive research",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-2-0-0"
+    },
+    {
+      "bounds": "[1152,697][1296,858]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-2-1"
+    },
+    {
+      "bounds": "[1200,729][1296,825]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-2-1-0"
+    },
+    {
+      "bounds": "[0,861][1344,1022]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-3"
+    },
+    {
+      "bounds": "[48,861][1152,1022]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-3-0"
+    },
+    {
+      "bounds": "[48,909][533,974]",
+      "clickable": "false",
+      "text": "Display search options",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-3-0-0"
+    },
+    {
+      "bounds": "[1152,861][1296,1022]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-3-1"
+    },
+    {
+      "bounds": "[1200,893][1296,989]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-3-1-0"
+    },
+    {
+      "bounds": "[0,1025][1344,1186]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-4"
+    },
+    {
+      "bounds": "[48,1025][1152,1186]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-4-0"
+    },
+    {
+      "bounds": "[48,1073][539,1138]",
+      "clickable": "false",
+      "text": "Vertical search options",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-4-0-0"
+    },
+    {
+      "bounds": "[1152,1025][1296,1186]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-4-1"
+    },
+    {
+      "bounds": "[1200,1057][1296,1153]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-4-1-0"
+    },
+    {
+      "bounds": "[0,1189][1344,1350]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-5"
+    },
+    {
+      "bounds": "[48,1189][1152,1350]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-5-0"
+    },
+    {
+      "bounds": "[48,1237][974,1302]",
+      "clickable": "false",
+      "text": "Display number of found inside note search",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-5-0-0"
+    },
+    {
+      "bounds": "[1152,1189][1296,1350]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-5-1"
+    },
+    {
+      "bounds": "[1200,1221][1296,1317]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-5-1-0"
+    },
+    {
+      "bounds": "[0,1353][1344,1458]",
+      "clickable": "false",
+      "text": "Display",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-6"
+    },
+    {
+      "bounds": "[0,1461][1344,1679]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-7"
+    },
+    {
+      "bounds": "[48,1461][1152,1679]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-7-0"
+    },
+    {
+      "bounds": "[48,1509][334,1574]",
+      "clickable": "false",
+      "text": "Creation date",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-7-0-0"
+    },
+    {
+      "bounds": "[48,1574][440,1631]",
+      "clickable": "false",
+      "text": "Display creation date",
+      "resource-id": "android:id/summary",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-7-0-1"
+    },
+    {
+      "bounds": "[1152,1461][1296,1679]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-7-1"
+    },
+    {
+      "bounds": "[1200,1522][1296,1618]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-7-1-0"
+    },
+    {
+      "bounds": "[0,1682][1344,1900]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-8"
+    },
+    {
+      "bounds": "[48,1682][1152,1900]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-8-0"
+    },
+    {
+      "bounds": "[48,1730][427,1795]",
+      "clickable": "false",
+      "text": "Modification Date",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-8-0-0"
+    },
+    {
+      "bounds": "[48,1795][522,1852]",
+      "clickable": "false",
+      "text": "Display modification date",
+      "resource-id": "android:id/summary",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-8-0-1"
+    },
+    {
+      "bounds": "[1152,1682][1296,1900]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-8-1"
+    },
+    {
+      "bounds": "[1200,1743][1296,1839]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-8-1-0"
+    },
+    {
+      "bounds": "[0,1903][1344,2064]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-9"
+    },
+    {
+      "bounds": "[48,1903][1152,2064]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-9-0"
+    },
+    {
+      "bounds": "[48,1951][503,2016]",
+      "clickable": "false",
+      "text": "Follow system theme",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-9-0-0"
+    },
+    {
+      "bounds": "[1152,1903][1296,2064]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-9-1"
+    },
+    {
+      "bounds": "[1200,1935][1296,2031]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-9-1-0"
+    },
+    {
+      "bounds": "[0,2067][1344,2285]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-10"
+    },
+    {
+      "bounds": "[48,2067][1152,2285]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-10-0"
+    },
+    {
+      "bounds": "[48,2115][301,2180]",
+      "clickable": "false",
+      "text": "Light theme",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-10-0-0"
+    },
+    {
+      "bounds": "[48,2180][410,2237]",
+      "clickable": "false",
+      "text": "Light or dark theme",
+      "resource-id": "android:id/summary",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-10-0-1"
+    },
+    {
+      "bounds": "[1152,2067][1296,2285]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-10-1"
+    },
+    {
+      "bounds": "[1200,2128][1296,2224]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-10-1-0"
+    },
+    {
+      "bounds": "[0,2288][1344,2506]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-11"
+    },
+    {
+      "bounds": "[48,2288][1296,2506]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-11-0"
+    },
+    {
+      "bounds": "[48,2336][321,2401]",
+      "clickable": "false",
+      "text": "Preview limit",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-11-0-0"
+    },
+    {
+      "bounds": "[48,2401][818,2458]",
+      "clickable": "false",
+      "text": "Number of characters per note previewed",
+      "resource-id": "android:id/summary",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-11-0-1"
+    },
+    {
+      "bounds": "[0,2509][1344,2670]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-12"
+    },
+    {
+      "bounds": "[48,2509][1152,2670]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-12-0"
+    },
+    {
+      "bounds": "[48,2557][686,2622]",
+      "clickable": "false",
+      "text": "Respect formatting in preview",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-12-0-0"
+    },
+    {
+      "bounds": "[1152,2509][1296,2670]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-12-1"
+    },
+    {
+      "bounds": "[1200,2541][1296,2637]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-12-1-0"
+    },
+    {
+      "bounds": "[0,2673][1344,2834]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-13"
+    },
+    {
+      "bounds": "[48,2673][1152,2834]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-13-0"
+    },
+    {
+      "bounds": "[48,2721][534,2786]",
+      "clickable": "false",
+      "text": "Keep scrolling position",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-13-0-0"
+    },
+    {
+      "bounds": "[1152,2673][1296,2834]",
+      "clickable": "false",
+      "resource-id": "android:id/widget_frame",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-13-1"
+    },
+    {
+      "bounds": "[1200,2705][1296,2801]",
+      "clickable": "false",
+      "resource-id": "android:id/checkbox",
+      "class": "CheckBox",
+      "index": "0-0-1-0-0-0-0-13-1-0"
+    },
+    {
+      "bounds": "[0,2837][1344,2920]",
+      "clickable": "false",
+      "class": "LinearLayout",
+      "index": "0-0-1-0-0-0-0-14"
+    },
+    {
+      "bounds": "[48,2837][1296,2920]",
+      "clickable": "false",
+      "class": "RelativeLayout",
+      "index": "0-0-1-0-0-0-0-14-0"
+    },
+    {
+      "bounds": "[48,2885][199,2920]",
+      "clickable": "false",
+      "text": "Sort by",
+      "resource-id": "android:id/title",
+      "class": "TextView",
+      "index": "0-0-1-0-0-0-0-14-0-0"
+    },
+    {
+      "bounds": "[0,0][1344,151]",
+      "clickable": "false",
+      "resource-id": "android:id/statusBarBackground",
+      "class": "View",
+      "index": "0-1"
+    },
+    {
+      "bounds": "[0,2920][1344,2992]",
+      "clickable": "false",
+      "resource-id": "android:id/navigationBarBackground",
+      "class": "View",
+      "index": "0-2"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "function_nodes": [
+    {
+      "function_id": "0",
+      "function_name": "Search Notes",
+      "related_pages": [
+        {
+          "page_id": "0",
+          "page_name": "Main Page"
+        },
+        {
+          "page_id": "3",
+          "page_name": "Search Page"
+        }
+      ]
+    },
+    {
+      "function_id": "1",
+      "function_name": "Select Mode",
+      "related_pages": [
+        {
+          "page_id": "0",
+          "page_name": "Main Page"
+        }
+      ]
+    },
+    {
+      "function_id": "2",
+      "function_name": "Add Note",
+      "related_pages": [
+        {
+          "page_id": "0",
+          "page_name": "Main Page"
+        },
+        {
+          "page_id": "1",
+          "page_name": "Add Note Page"
+        }
+      ]
+    },
+    {
+      "function_id": "3",
+      "function_name": "Settings",
+      "related_pages": [
+        {
+          "page_id": "0",
+          "page_name": "Main Page"
+        },
+        {
+          "page_id": "2",
+          "page_name": "Preferences Page"
+        }
+      ]
+    },
+    {
+      "function_id": "4",
+      "function_name": "Save Note",
+      "related_pages": [
+        {
+          "page_id": "3",
+          "page_name": "Note Editing Page"
+        }
+      ]
+    },
+    {
+      "function_id": "5",
+      "function_name": "Switch Edit Mode",
+      "related_pages": [
+        {
+          "page_id": "3",
+          "page_name": "Note Editing Page"
+        }
+      ]
+    }
+  ],
+  "logic_relations": [
+    {
+      "source_function_id": "0",
+      "target_function_id": "0",
+      "description": "Perform search within the notes",
+      "operation_description": "Click [Search] button"
+    },
+    {
+      "source_function_id": "1",
+      "target_function_id": "1",
+      "description": "Switch to select mode for multiple notes",
+      "operation_description": "Click [Select mode] button"
+    },
+    {
+      "source_function_id": "2",
+      "target_function_id": "2",
+      "description": "Navigate to Add Note Page",
+      "operation_description": "Click [Add note] button"
+    },
+    {
+      "source_function_id": "3",
+      "target_function_id": "3",
+      "description": "Navigate to Preferences Page",
+      "operation_description": "Click [Settings] button"
+    },
+    {
+      "source_function_id": "4",
+      "target_function_id": "0",
+      "description": "Save the current note and return to Main Page",
+      "operation_description": "Click [Save] button"
+    },
+    {
+      "source_function_id": "5",
+      "target_function_id": "5",
+      "description": "Switch between edit and view mode",
+      "operation_description": "Click [Switch Edit Mode] button"
+    }
+  ],
+  "functional_logic_paths": [
+    {
+      "path_id": 0,
+      "start_function_id": 2,
+      "end_function_id": 4,
+      "path_description": "Add a new note and save it",
+      "expected_result": "Display the saved note on the Main Page",
+      "step_desc": [
+        {
+          "step_id": 0,
+          "function_id": 2,
+          "function_name": "Add Note",
+          "operation_description": "Click [Add note] button to navigate to Add Note Page"
+        },
+        {
+          "step_id": 1,
+          "function_id": 4,
+          "function_name": "Save Note",
+          "operation_description": "Click [Save] button to save the note and return to Main Page"
+        }
+      ]
+    },
+    {
+      "path_id": 1,
+      "start_function_id": 0,
+      "end_function_id": 0,
+      "path_description": "Search for notes from the Main Page",
+      "expected_result": "Display search results on the Search Page",
+      "step_desc": [
+        {
+          "step_id": 0,
+          "function_id": 0,
+          "function_name": "Search Notes",
+          "operation_description": "Click the [Search] button on the Main Page"
+        },
+        {
+          "step_id": 1,
+          "function_id": 0,
+          "function_name": "Search Notes",
+          "operation_description": "Perform search within the notes"
+        },
+        {
+          "step_id": 2,
+          "function_id": 0,
+          "function_name": "Search Notes",
+          "operation_description": "Display search results on the Search Page"
+        }
+      ]
+    },
+    {
+      "path_id": 2,
+      "start_function_id": 1,
+      "end_function_id": 1,
+      "path_description": "Switch to select mode for multiple notes",
+      "expected_result": "Enable selection of multiple notes on the Main Page",
+      "step_desc": [
+        {
+          "step_id": 0,
+          "function_id": 1,
+          "function_name": "Select Mode",
+          "operation_description": "Click [Select mode] button on the Main Page to enable selection of multiple notes"
+        }
+      ]
+    },
+    {
+      "path_id": 3,
+      "start_function_id": 3,
+      "end_function_id": 3,
+      "path_description": "Access settings to navigate to Preferences Page",
+      "expected_result": "Display Preferences Page with settings options",
+      "step_desc": [
+        {
+          "step_id": 0,
+          "function_id": 3,
+          "function_name": "Settings",
+          "operation_description": "Click [Settings] button to navigate to Preferences Page"
+        },
+        {
+          "step_id": 1,
+          "function_id": 3,
+          "function_name": "Settings",
+          "operation_description": "Page loads and displays Preferences Page with settings options"
+        }
+      ]
+    },
+    {
+      "path_id": 4,
+      "start_function_id": 5,
+      "end_function_id": 5,
+      "path_description": "Switch between edit and view mode on the Note Editing Page",
+      "expected_result": "Toggle between edit and view mode on the Note Editing Page",
+      "step_desc": [
+        {
+          "step_id": 0,
+          "function_id": 5,
+          "function_name": "Switch Edit Mode",
+          "operation_description": "Click [Switch Edit Mode] button to toggle between edit and view mode on the Note Editing Page"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.git
+.idea/
+**/__pycache__
+/log/
+.venv
+.DS_Store
+# --------
+config.yaml
+data
+README.md

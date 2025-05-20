@@ -1,0 +1,26 @@
+
+# LLM config
+OPENAI_API_BASE: "https://api.openai.com/v1"
+OPENAI_API_KEY: "sk-"  # Set the value to sk-xxx if you host the openai interface for open llm model
+MODEL_NAME: "gpt-4o"  # The only OpenAI model by now that accepts visual input
+MAX_TOKENS: 8192  # The max token limit for the response completion 1024*8
+TEMPERATURE: 0.0  # The temperature of the model: the lower the value, the more consistent the output of the model
+REQUEST_INTERVAL: 10  # Time in seconds between consecutive GPT-4V requests
+
+# Android config
+CURRENT_DEVICE: ""  # Load the device[0] in the adb list default
+APP_PACKAGE: "app.varlorg.unote"
+APP_ACTIVITY: "jacoco.MainActivity"
+APP_INTRO_PATH: "data/app/app.varlorg.unote.json"
+ROUND: 1  # The number of rounds to run the app
+ANDROID_SCREENSHOT_DIR: "/sdcard"  # Set the directory on your Android device to store the intermediate screenshots. Make sure the directory EXISTS on your phone!
+ANDROID_XML_DIR: "/sdcard"  # Set the directory on your Android device to store the intermediate XML files used for determining locations of UI elements on your screen. Make sure the directory EXISTS on your phone!
+
+# Data save
+SAVED_BASE_DIR: "data" # The directory where the data will be stored.
+PAGES_JSON_PATH: "pages.json"  # The file name for the JSON file containing the pages data
+TRANSITIONS_GRAPH_PATH: "transitions.json"  # The file name for the JSON file containing the transitions graph data
+FUNC_LOGIC_GRAPH_PATH: "fun_logic.json"  # The file name for the JSON file containing the function logic data
+CHAT_HISTORY_PATH: "chat_history.json"  # The file name for the JSON file containing the chat history data
+DEFECTS_PATH: "defects.json"  # The file name for the JSON file containing the defects data
+LOG_PATH: "log.json"  # The file name for the JSON file containing the execution log data

@@ -1,0 +1,134 @@
+[
+  {
+    "path_id": 0,
+    "path_description": "Add a new note and save it",
+    "expected_result": "Display the saved note on the Main Page",
+    "page_ids": [
+      0,
+      1,
+      3
+    ],
+    "step_desc": [
+      {
+        "step_id": 0,
+        "function_id": 2,
+        "function_name": "Add Note",
+        "operation_description": "Click [Add note] button to navigate to Add Note Page"
+      },
+      {
+        "step_id": 1,
+        "function_id": 4,
+        "function_name": "Save Note",
+        "operation_description": "Click [Save] button to save the note and return to Main Page"
+      }
+    ],
+    "defects": [
+      {
+        "step_id": "1",
+        "page_id": "3",
+        "defect_type": "UI Consistency Issue",
+        "reason": "The 'Save' and 'Return' buttons have different sizes on the Main Page compared to the Add Note Page.",
+        "fix_suggestion": "Ensure that the 'Save' and 'Return' buttons have consistent sizes across all pages."
+      }
+    ],
+    "path_concat_img": "data/app.varlorg.unote_0/logic_paths/path_0_concat.jpg"
+  },
+  {
+    "path_id": 1,
+    "path_description": "Search for notes from the Main Page",
+    "expected_result": "Display search results on the Search Page",
+    "page_ids": [
+      0,
+      3
+    ],
+    "step_desc": [
+      {
+        "step_id": 0,
+        "function_id": 0,
+        "function_name": "Search Notes",
+        "operation_description": "Click the [Search] button on the Main Page"
+      }
+    ],
+    "defects": [
+      {
+        "step_id": "0",
+        "page_id": "3",
+        "defect_type": "UI Element Missing",
+        "reason": "The search results are not displayed on the Search Page as expected. The page only shows input fields without any search results.",
+        "fix_suggestion": "Ensure that the search results are displayed below the search input field after performing a search."
+      }
+    ],
+    "path_concat_img": "data/app.varlorg.unote_0/logic_paths/path_1_concat.jpg"
+  },
+  {
+    "path_id": 2,
+    "path_description": "Switch to select mode for multiple notes",
+    "expected_result": "Enable selection of multiple notes on the Main Page",
+    "page_ids": [
+      0
+    ],
+    "step_desc": [
+      {
+        "step_id": 0,
+        "function_id": 1,
+        "function_name": "Select Mode",
+        "operation_description": "Click [Select mode] button on the Main Page to enable selection of multiple notes"
+      }
+    ],
+    "defects": [
+      {
+        "step_id": "0",
+        "page_id": "0",
+        "defect_type": "UI Element Missing",
+        "reason": "The 'Select mode' button is not visible on the Main Page, preventing the user from enabling the selection of multiple notes.",
+        "fix_suggestion": "Ensure the 'Select mode' button is present and visible on the Main Page to allow users to switch to select mode."
+      }
+    ],
+    "path_concat_img": "data/app.varlorg.unote_0/logic_paths/path_2_concat.jpg"
+  },
+  {
+    "path_id": 3,
+    "path_description": "Access settings to navigate to Preferences Page",
+    "expected_result": "Display Preferences Page with settings options",
+    "page_ids": [
+      0,
+      2
+    ],
+    "step_desc": [
+      {
+        "step_id": 0,
+        "function_id": 3,
+        "function_name": "Settings",
+        "operation_description": "Click [Settings] button to navigate to Preferences Page"
+      }
+    ],
+    "defects": [],
+    "path_concat_img": "data/app.varlorg.unote_0/logic_paths/path_3_concat.jpg"
+  },
+  {
+    "path_id": 4,
+    "path_description": "Switch between edit and view mode on the Note Editing Page",
+    "expected_result": "Toggle between edit and view mode on the Note Editing Page",
+    "page_ids": [
+      3
+    ],
+    "step_desc": [
+      {
+        "step_id": 0,
+        "function_id": 5,
+        "function_name": "Switch Edit Mode",
+        "operation_description": "Click [Switch Edit Mode] button to toggle between edit and view mode on the Note Editing Page"
+      }
+    ],
+    "defects": [
+      {
+        "step_id": "0",
+        "page_id": "3",
+        "defect_type": "UI Element Missing",
+        "reason": "The screenshot does not show a button labeled 'Switch Edit Mode', which is necessary to toggle between edit and view modes.",
+        "fix_suggestion": "Add a 'Switch Edit Mode' button to the Note Editing Page to allow users to toggle between modes."
+      }
+    ],
+    "path_concat_img": "data/app.varlorg.unote_0/logic_paths/path_4_concat.jpg"
+  }
+]

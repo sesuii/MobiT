@@ -1,0 +1,459 @@
+[
+  {
+    "index": 0,
+    "isFinished": true,
+    "page_config": {
+      "xml_path": "data/app.varlorg.unote_0/assets/20250520-172907.xml",
+      "img_path": "data/app.varlorg.unote_0/assets/20250520-172907.png",
+      "json_path": "data/app.varlorg.unote_0/assets/20250520-172907.json",
+      "appActivity": "jacoco.MainActivity",
+      "appPackage": "app.varlorg.unote"
+    },
+    "out_edges": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "in_edges": [
+      6,
+      7,
+      10,
+      11
+    ],
+    "page_overview": "This page is designed for note management, allowing users to add, search, and manage notes. It features a top action bar with buttons for adding notes, searching, selecting modes, and accessing settings. At the bottom, there are additional buttons for adding notes, searching, and quitting the application. These interactive elements facilitate efficient note management and navigation within the app.",
+    "functional_modules": [
+      {
+        "module_name": "Top Action Bar",
+        "bounds": "[0,151][1344,319]",
+        "index": 0,
+        "interactive_elements": [
+          "0-0-0-0-1-0",
+          "0-0-0-0-1-1",
+          "0-0-0-0-1-2",
+          "0-0-0-0-1-3"
+        ],
+        "test_plan": {
+          "type": "Sequential Click",
+          "steps": [
+            "Click on the 'Add note' button and verify the note creation screen appears.",
+            "Click on the 'Search' button and verify the search functionality is activated.",
+            "Click on the 'Select mode' button and verify the selection mode is enabled.",
+            "Click on the 'Settings' button and verify the settings screen appears."
+          ]
+        },
+        "isFinished": true,
+        "todoList": []
+      },
+      {
+        "module_name": "Bottom Action Bar",
+        "bounds": "[0,2776][1344,2920]",
+        "index": 1,
+        "interactive_elements": [
+          "0-0-1-0-2-0",
+          "0-0-1-0-2-1",
+          "0-0-1-0-2-2"
+        ],
+        "test_plan": {
+          "type": "Sequential Click",
+          "steps": [
+            "Click on the 'Add note' button and verify the note creation screen appears.",
+            "Click on the 'Search' button and verify the search functionality is activated.",
+            "Click on the 'Quit' button and verify the application exits or returns to the previous screen."
+          ]
+        },
+        "isFinished": true,
+        "todoList": []
+      }
+    ],
+    "representative_ui_elements": {
+      "Title": [
+        {
+          "bounds": "[48,194][210,275]",
+          "clickable": "false",
+          "text": "uNote",
+          "class": "TextView",
+          "index": "0-0-0-0-0"
+        }
+      ],
+      "Primary_Action_Button": [
+        {
+          "bounds": "[768,163][912,307]",
+          "clickable": "true",
+          "resource-id": "app.varlorg.unote:id/action_add",
+          "class": "Button",
+          "content-desc": "Add note",
+          "index": "0-0-0-0-1-0"
+        },
+        {
+          "bounds": "[0,2776][448,2920]",
+          "clickable": "true",
+          "text": "Add note",
+          "resource-id": "app.varlorg.unote:id/addNoteButton",
+          "class": "Button",
+          "index": "0-0-1-0-2-0"
+        }
+      ],
+      "Fixed_Layout_Components": [
+        {
+          "bounds": "[0,151][1344,319]",
+          "clickable": "false",
+          "resource-id": "android:id/action_bar_container",
+          "class": "FrameLayout",
+          "index": "0-0-0"
+        },
+        {
+          "bounds": "[0,0][1344,151]",
+          "clickable": "false",
+          "resource-id": "android:id/statusBarBackground",
+          "class": "View",
+          "index": "0-1"
+        },
+        {
+          "bounds": "[0,2920][1344,2992]",
+          "clickable": "false",
+          "resource-id": "android:id/navigationBarBackground",
+          "class": "View",
+          "index": "0-2"
+        }
+      ]
+    }
+  },
+  {
+    "index": 1,
+    "isFinished": true,
+    "page_config": {
+      "xml_path": "data/app.varlorg.unote_0/assets/20250520-172935.xml",
+      "img_path": "data/app.varlorg.unote_0/assets/20250520-172935.png",
+      "json_path": "data/app.varlorg.unote_0/assets/20250520-172935.json",
+      "appActivity": ".NoteEdition",
+      "appPackage": "app.varlorg.unote"
+    },
+    "out_edges": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "in_edges": [
+      0,
+      2,
+      3,
+      4,
+      9
+    ],
+    "page_overview": "This note editing page is designed to allow users to create and edit notes. It features input fields for the note title and content, a save button to store the note, and a return button to exit the editing mode. Additionally, there are action buttons for search, save, switch mode, and more options in the action bar. These interactive elements are integral to the note-taking process, ensuring that users can efficiently manage their notes.",
+    "functional_modules": [
+      {
+        "module_name": "Action Bar",
+        "bounds": "[0,151][1344,319]",
+        "index": 0,
+        "interactive_elements": [
+          "0-0-0-0-1-0",
+          "0-0-0-0-1-1",
+          "0-0-0-0-1-2",
+          "0-0-0-0-1-3"
+        ],
+        "test_plan": {
+          "type": "Sequential Click",
+          "steps": [
+            "Click on the search button and verify search functionality.",
+            "Click on the save button and verify save functionality.",
+            "Click on the switch mode button and verify mode change.",
+            "Click on the more options button and verify options menu."
+          ]
+        },
+        "isFinished": true,
+        "todoList": []
+      },
+      {
+        "module_name": "Note Editing",
+        "bounds": "[0,319][1344,2776]",
+        "index": 1,
+        "interactive_elements": [
+          "0-0-1-0-2",
+          "0-0-1-0-5",
+          "0-0-1-0-6-0",
+          "0-0-1-0-6-1"
+        ],
+        "test_plan": {
+          "type": "Other",
+          "steps": [
+            "Enter text in the title field and verify input.",
+            "Enter text in the note content field and verify input.",
+            "Click on the save button and verify note saving.",
+            "Click on the return button and verify exit from editing mode."
+          ]
+        },
+        "isFinished": true,
+        "todoList": [
+          "others"
+        ]
+      }
+    ],
+    "representative_ui_elements": {
+      "Title": [
+        {
+          "bounds": "[48,194][210,275]",
+          "clickable": "false",
+          "text": "uNote",
+          "class": "TextView",
+          "index": "0-0-0-0-0"
+        }
+      ],
+      "Primary_Action_Button": [
+        {
+          "bounds": "[0,2632][672,2776]",
+          "clickable": "true",
+          "text": "Save",
+          "resource-id": "app.varlorg.unote:id/ButtonSave",
+          "class": "Button",
+          "index": "0-0-1-0-6-0"
+        }
+      ],
+      "Fixed_Layout_Components": [
+        {
+          "bounds": "[792,151][1344,319]",
+          "clickable": "false",
+          "class": "LinearLayout",
+          "index": "0-0-0-0-1"
+        },
+        {
+          "bounds": "[0,0][1344,151]",
+          "clickable": "false",
+          "resource-id": "android:id/statusBarBackground",
+          "class": "View",
+          "index": "0-1"
+        },
+        {
+          "bounds": "[0,2920][1344,2992]",
+          "clickable": "false",
+          "resource-id": "android:id/navigationBarBackground",
+          "class": "View",
+          "index": "0-2"
+        }
+      ]
+    }
+  },
+  {
+    "index": 2,
+    "isFinished": true,
+    "page_config": {
+      "xml_path": "data/app.varlorg.unote_0/assets/20250520-173010.xml",
+      "img_path": "data/app.varlorg.unote_0/assets/20250520-173010.png",
+      "json_path": "data/app.varlorg.unote_0/assets/20250520-173010.json",
+      "appActivity": ".Preference",
+      "appPackage": "app.varlorg.unote"
+    },
+    "out_edges": [],
+    "in_edges": [
+      1,
+      8,
+      12
+    ],
+    "page_overview": "This preferences page allows users to customize their search and display settings within the application. Users can enable or disable options such as case sensitivity in search, display search options, vertical search options, and more. Each setting is accompanied by a checkbox for easy toggling, providing users with a personalized experience based on their preferences.",
+    "functional_modules": [
+      {
+        "module_name": "Search Options Module",
+        "bounds": "[0,319][1344,1350]",
+        "index": 0,
+        "interactive_elements": [
+          "0-0-1-0-0-0-0-1-1-0",
+          "0-0-1-0-0-0-0-2-1-0",
+          "0-0-1-0-0-0-0-3-1-0",
+          "0-0-1-0-0-0-0-4-1-0",
+          "0-0-1-0-0-0-0-5-1-0"
+        ],
+        "test_plan": {
+          "type": "Sequential Click",
+          "steps": [
+            "Toggle 'Search in content' checkbox",
+            "Toggle 'Case sensitive research' checkbox",
+            "Toggle 'Display search options' checkbox",
+            "Toggle 'Vertical search options' checkbox",
+            "Toggle 'Display number of found inside note search' checkbox"
+          ]
+        },
+        "isFinished": true,
+        "todoList": []
+      },
+      {
+        "module_name": "Display Options Module",
+        "bounds": "[0,1353][1344,2920]",
+        "index": 1,
+        "interactive_elements": [
+          "0-0-1-0-0-0-0-7-1-0",
+          "0-0-1-0-0-0-0-8-1-0",
+          "0-0-1-0-0-0-0-9-1-0",
+          "0-0-1-0-0-0-0-10-1-0",
+          "0-0-1-0-0-0-0-12-1-0",
+          "0-0-1-0-0-0-0-13-1-0"
+        ],
+        "test_plan": {
+          "type": "Sequential Click",
+          "steps": [
+            "Toggle 'Creation date' checkbox",
+            "Toggle 'Modification Date' checkbox",
+            "Toggle 'Follow system theme' checkbox",
+            "Toggle 'Light theme' checkbox",
+            "Toggle 'Respect formatting in preview' checkbox",
+            "Toggle 'Keep scrolling position' checkbox"
+          ]
+        },
+        "isFinished": true,
+        "todoList": []
+      }
+    ],
+    "representative_ui_elements": {
+      "Title": [
+        {
+          "bounds": "[48,194][369,275]",
+          "clickable": "false",
+          "text": "Preferences",
+          "class": "TextView",
+          "index": "0-0-0-0-0"
+        }
+      ],
+      "Primary_Action_Button": [],
+      "Fixed_Layout_Components": [
+        {
+          "bounds": "[0,151][1344,319]",
+          "clickable": "false",
+          "resource-id": "android:id/action_bar_container",
+          "class": "FrameLayout",
+          "index": "0-0-0"
+        },
+        {
+          "bounds": "[0,0][1344,151]",
+          "clickable": "false",
+          "resource-id": "android:id/statusBarBackground",
+          "class": "View",
+          "index": "0-1"
+        },
+        {
+          "bounds": "[0,2920][1344,2992]",
+          "clickable": "false",
+          "resource-id": "android:id/navigationBarBackground",
+          "class": "View",
+          "index": "0-2"
+        }
+      ]
+    }
+  },
+  {
+    "index": 3,
+    "isFinished": true,
+    "page_config": {
+      "xml_path": "data/app.varlorg.unote_0/assets/20250520-173104.xml",
+      "img_path": "data/app.varlorg.unote_0/assets/20250520-173104.png",
+      "json_path": "data/app.varlorg.unote_0/assets/20250520-173104.json",
+      "appActivity": ".NoteEdition",
+      "appPackage": "app.varlorg.unote"
+    },
+    "out_edges": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "in_edges": [
+      5
+    ],
+    "page_overview": "This note editing page is designed to facilitate users in creating and modifying notes. It includes a search feature for locating specific notes, input fields for entering the title and content of the note, and action buttons for saving or returning from the editing session. These interactive elements are essential for ensuring a smooth user experience in managing personal notes.",
+    "functional_modules": [
+      {
+        "module_name": "Action Bar",
+        "bounds": "[48,194][210,275]",
+        "index": 0,
+        "interactive_elements": [
+          "0-0-0-0-1-0",
+          "0-0-0-0-1-1",
+          "0-0-0-0-1-2",
+          "0-0-0-0-1-3"
+        ],
+        "test_plan": {
+          "type": "Sequential Click",
+          "steps": [
+            "Click on the 'Search' button and verify functionality.",
+            "Click on the 'Save' button and check that it triggers a save action.",
+            "Click on the 'Switch Mode' button and confirm that it switches the mode.",
+            "Click on the 'More options' button and ensure additional options are displayed."
+          ]
+        },
+        "isFinished": true,
+        "todoList": []
+      },
+      {
+        "module_name": "Note Editing",
+        "bounds": "[0,319][1344,2776]",
+        "index": 1,
+        "interactive_elements": [
+          "0-0-1-0-0-0",
+          "0-0-1-0-3",
+          "0-0-1-0-6",
+          "0-0-1-0-7-0",
+          "0-0-1-0-7-1"
+        ],
+        "test_plan": {
+          "type": "Other",
+          "steps": [
+            "Fill out the 'Search' field and verify the search functionality.",
+            "Enter a title in the 'Note's Title' field and confirm the input is registered.",
+            "Write content in 'Your Note' field and ensure text entry is correctly captured.",
+            "Click on the 'Save' button to save the note and verify operation.",
+            "Press the 'Return' button to exit the editing and ensure a return to the previous screen."
+          ]
+        },
+        "isFinished": true,
+        "todoList": [
+          "others"
+        ]
+      }
+    ],
+    "representative_ui_elements": {
+      "Title": [
+        {
+          "bounds": "[48,194][210,275]",
+          "clickable": "false",
+          "text": "uNote",
+          "class": "TextView",
+          "index": "0-0-0-0-0"
+        }
+      ],
+      "Primary_Action_Button": [
+        {
+          "bounds": "[0,2632][672,2776]",
+          "clickable": "true",
+          "text": "Save",
+          "resource-id": "app.varlorg.unote:id/ButtonSave",
+          "class": "Button",
+          "index": "0-0-1-0-7-0"
+        }
+      ],
+      "Fixed_Layout_Components": [
+        {
+          "bounds": "[0,151][1344,319]",
+          "clickable": "false",
+          "resource-id": "android:id/action_bar",
+          "class": "ViewGroup",
+          "index": "0-0-0-0"
+        },
+        {
+          "bounds": "[0,0][1344,151]",
+          "clickable": "false",
+          "resource-id": "android:id/statusBarBackground",
+          "class": "View",
+          "index": "0-1"
+        },
+        {
+          "bounds": "[0,2920][1344,2992]",
+          "clickable": "false",
+          "resource-id": "android:id/navigationBarBackground",
+          "class": "View",
+          "index": "0-2"
+        }
+      ]
+    }
+  }
+]
